@@ -1,0 +1,32 @@
+16 1584 12 0.0175718
+testPlayerName0 19 150
+testPlayerName1 27 84
+testPlayerName2 36 160
+testPlayerName3 14 89
+testPlayerName7 40 111
+testPlayerName8 15 177
+testPlayerName9 1 133
+testPlayerName10 2 179
+testPlayerName11 97 82
+testPlayerName12 56 143
+testPlayerName13 60 110
+testPlayerName14 11 166
+20 2055 18 0.318989
+testPlayerName0 19 150
+testPlayerName1 27 84
+testPlayerName2 36 160
+testPlayerName3 14 89
+testPlayerName5 92 45
+testPlayerName6 83 48
+testPlayerName7 40 111
+testPlayerName8 15 177
+testPlayerName9 1 133
+testPlayerName10 2 179
+testPlayerName11 97 82
+testPlayerName12 56 143
+testPlayerName13 60 110
+testPlayerName14 11 166
+testPlayerName15 68 50
+testPlayerName17 43 135
+testPlayerName18 67 78
+testPlayerName19 10 115
